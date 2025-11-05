@@ -35,6 +35,6 @@ Il progetto è sviluppato in **Python 3.13.7** e utilizza le seguenti librerie:
 3.  **Esegui l'applicazione:**
     Assicurati che il file del dataset `enhanced_fever_medicine_recommendation.csv` sia presente nella cartella del progetto.
     ```bash
-    python raccomandazione_medicina.py
+    python racc_medicina.py
     ```
 4.  Segui le istruzioni a schermo per inserire i dati di un nuovo paziente o per analizzare un file CSV esistente.
