@@ -1,0 +1,4 @@
+Age,Gender,BMI,Temperature,Fever_Severity,Headache,Body_Ache,Fatigue,Heart_Rate,Chronic_Conditions,Allergies,Blood_Pressure,Smoking_History,Alcohol_Consumption,Diet_Type,Physical_Activity,Humidity,AQI,Previous_Medication,Recommended_Medication,Confidence,Timestamp
+22.0,Other,20.0,36.5,Normal,Yes,No,Yes,160.0,Asthma,Dust,Low,Current,Occasional,Mediterranean,2.0,70.0,200.0,Ibuprofen,Ibuprofen,99.0,2025-10-23 14:11:17
+25.0,Female,45.0,36.0,Normal,Yes,No,Yes,110.0,,,Normal,Current,Occasional,Mediterranean,2.0,60.0,350.0,Ibuprofen,Ibuprofen,99.15685629727064,2025-10-23 15:25:08
+24.0,Male,27.0,36.8,Normal,Yes,Yes,Yes,75.0,None,None,Low,Never,Occasional,Balanced,3.0,60.0,400.0,Ibuprofen,Ibuprofen,99.42665474060823,2025-10-23 15:28:07
